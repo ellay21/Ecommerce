@@ -95,7 +95,7 @@ User(id, username, email, password, role)
 
 ---
 
-## **3. order-service
+### **3. order-service
 
 **Models:**
 CartItem(user, product, quantity)
@@ -109,7 +109,7 @@ Order(user, items, total, status)
 
 ---
 
-## **4. Payment Service
+### **4. Payment Service
 
 **Model:**
 - **Payment** (`order`, `status`, `timestamp`)
