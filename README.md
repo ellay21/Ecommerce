@@ -24,12 +24,12 @@ The system is containerized with **Docker Compose** and deployed to **Render**.
 - Profile retrieval
 - Role-based access control (Admin / Customer)
 
-### **3. Order & Cart** (`order-service`)
+### 3. Order & Cart** (`order-service`)
 - Add/remove items to cart
 - Place orders
 - View order history
 
-### **4. Payment Simulation** (`payment-service`)
+### 4. Payment Simulation** (`payment-service`)
 - Mock payment endpoint
 - Asynchronous confirmation via **Celery + Redis**
 
