@@ -109,11 +109,7 @@ Order(user, items, total, status)
 
 ---
 
-## **4. payment-service
-
-**Model:**
-Payment(order, status, timestamp)
-## 4. Payment Service
+## **4. Payment Service
 
 **Model:**
 - **Payment** (`order`, `status`, `timestamp`)
