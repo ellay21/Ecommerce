@@ -1,5 +1,6 @@
 # 🛒 E-Commerce API with AI Integration
 
+
 A modular **Django-based RESTful API** for managing core e-commerce functionalities—products, users, orders, and payments—with **AI-assisted product description generation**.  
 The system is containerized with **Docker Compose** and deployed to **Render**.
 
