@@ -44,7 +44,7 @@ This project is a complete e-commerce RESTful API built with Django and Django R
     ```
 4.  **Set up environment variables:**
     -   Copy the `.env.example` to `.env` (or create it from scratch).
-    -   Fill in your `SECRET_KEY`, `DATABASE_URL`, and `GEMINI_API_KEY`.
+    -   Fill in your `SECRET_KEY`, `DATABASE_URL`,`JWT_KEY`, `DEBUG`,and `GEMINI_API_KEY`.
 5.  **Run database migrations:**
     ```bash
     python manage.py migrate
