@@ -1,7 +1,7 @@
 ### =======================================
 ### VARIABLES
 ### =======================================
-@baseUrl = http://127.0.0.1:8000
+@baseUrl = https://ecommerce-laj7.onrender.com
 @token = <your_access_token_here>
 
 ### =======================================
