@@ -30,7 +30,7 @@ This project is a complete e-commerce RESTful API built with Django and Django R
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/ellay21/Ecommerce
     cd ecommerce_project
     ```
 2.  **Create and activate a virtual environment:**
