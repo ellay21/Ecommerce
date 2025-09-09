@@ -5,7 +5,7 @@ from .views import PaymentViewSet
 from .webhook_views import PaymentWebhookView # <-- Import the new view
 
 router = DefaultRouter()
-router.register(r'payments', PaymentViewSet, basename='payment')
+router.register(r'', PaymentViewSet, basename='payment')
 
 urlpatterns = [
     path('', include(router.urls)),
